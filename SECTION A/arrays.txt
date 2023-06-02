@@ -1,0 +1,11 @@
+
+DEFINITION OF ARRAYS
+Arrays are javascript method used to store data such as strings,numbers which can be looped through and display the stored data to the user
+
+EXAMPLES OF ARRAYS METHOD
+1. array.push() - add new elements to the array
+2. array.pop() - Removes the last element from the array
+3. array.length() - Gets or sets the length of the array
+4. array.shift() -Removes the first element from the array
+5. array.unshift() -Inserts new elements at the start of the array
+
